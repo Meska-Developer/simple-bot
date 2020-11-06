@@ -33,6 +33,8 @@ $ npm i
 ```bash
 $ npm run start
 ```
+## Main File
+- `./meska.js`
 
 ## Simple Command
 - `./commands/avatar.js`
