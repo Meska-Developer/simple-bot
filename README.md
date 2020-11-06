@@ -26,6 +26,9 @@ $ npm i
 $ npm run start
 ```
 
+## Simple Command
+- `./commands/avatar.js`
+
 ## Debug with VSCode (Windows)
 * `F5` -> start
 * `Shift + F5` -> stop
