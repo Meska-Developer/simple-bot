@@ -1,4 +1,12 @@
-## Start Bot 
+# Simple Discord.js v12 Bot 
+
+## Edit Bot (`events/message.js`) - *Fill Yourself* *
+- `Line 27` -> Command not found
+- `Line 32` -> Command off
+- `Line 38, 44, 50, 56, 62, 68, 74, 80` -> Dont has permission
+- `Line 86` -> Only Author (`process.env.DISCORD_AUTHOR_ID`)
+
+## Start Bot *
 - Fill in the blanks correctly
 ```dotenv
 DISCORD_TOKEN=
@@ -17,6 +25,7 @@ npm i
 ```bat
 npm run start
 ```
+
 ## Debug with VSCode (Windows)
 * `F5` -> start
 * `Shift + F5` -> stop
@@ -25,3 +34,7 @@ npm run start
 * `F10` -> step over
 * `F11` -> step into
 * `Shift + F11` -> step out
+
+## Author : Arda Engin Ebcim aka Meska
+
+### Note : Those with an `*` next to them are required.
