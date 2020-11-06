@@ -7,6 +7,14 @@
 - `Line 86` -> Only Author (`process.env.DISCORD_AUTHOR_ID`)
 
 ## Start Bot *
+- Download repo
+```git
+$ git clone Meska-Developer/simple-bot
+```
+- Open a file
+```bash
+$ cd simple-bot
+```
 - Fill in the blanks correctly
 ```dotenv
 DISCORD_TOKEN=
@@ -18,11 +26,11 @@ DISCORD_CLIENT_SECRET_KEY=
 ```
 - Update `.env-example` to `.env`
 - Install required Packpages
-```bat
+```npm
 $ npm i
 ```
 - Start
-```bat
+```npm
 $ npm run start
 ```
 
