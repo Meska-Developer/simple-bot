@@ -1,4 +1,4 @@
-# Start Bot 
+## Start Bot 
 - Fill in the blanks correctly
 ```dotenv
 DISCORD_TOKEN=
@@ -17,3 +17,11 @@ npm i
 ```bat
 npm run start
 ```
+## Debug with VSCode (Windows)
+* `F5` -> start
+* `Shift + F5` -> stop
+* `Ctrl + Shift + B` -> run build task
+* `F9` -> toggle breakpoint
+* `F10` -> step over
+* `F11` -> step into
+* `Shift + F11` -> step out
