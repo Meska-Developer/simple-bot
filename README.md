@@ -1,12 +1,12 @@
 # Simple Discord.js v12 Bot 
 
-## Edit Bot (`events/message.js`) - *Fill Yourself* *
+## 🤖 Edit Bot (`events/message.js`) - *Fill Yourself* *
 - `Line 27` -> Command not found
 - `Line 32` -> Command off
 - `Line 38, 44, 50, 56, 62, 68, 74, 80` -> Dont has permission
 - `Line 86` -> Only Author (`process.env.DISCORD_AUTHOR_ID`)
 
-## Start Bot *
+## 👍 Start Bot *
 - Download repo
 ```bash
 $ git clone Meska-Developer/simple-bot
@@ -33,13 +33,13 @@ $ npm i
 ```bash
 $ npm run start
 ```
-## Main File
+## 📺 Main File
 - `./meska.js`
 
-## Simple Command
+## 🦋 Simple Command
 - `./commands/avatar.js`
 
-## Debug with VSCode (Windows)
+## 🌐 Debug with VSCode (Windows)
 * `F5` -> start
 * `Shift + F5` -> stop
 * `Ctrl + Shift + B` -> run build task
@@ -47,7 +47,5 @@ $ npm run start
 * `F10` -> step over
 * `F11` -> step into
 * `Shift + F11` -> step out
-
-## Author : Arda Engin Ebcim aka Meska
 
 ### Note : Those with an `*` next to them are required.
