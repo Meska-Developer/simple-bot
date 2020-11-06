@@ -8,7 +8,7 @@
 
 ## Start Bot *
 - Download repo
-```git
+```bash
 $ git clone Meska-Developer/simple-bot
 ```
 - Open a file
@@ -26,11 +26,11 @@ DISCORD_CLIENT_SECRET_KEY=
 ```
 - Update `.env-example` to `.env`
 - Install required Packpages
-```npm
+```bash
 $ npm i
 ```
 - Start
-```npm
+```bash
 $ npm run start
 ```
 
