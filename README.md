@@ -19,11 +19,11 @@ DISCORD_CLIENT_SECRET_KEY=
 - Update `.env-example` to `.env`
 - Install required Packpages
 ```bat
-npm i
+$ npm i
 ```
 - Start
 ```bat
-npm run start
+$ npm run start
 ```
 
 ## Debug with VSCode (Windows)
