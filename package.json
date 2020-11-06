@@ -1,0 +1,20 @@
+{
+  "name": "meska",
+  "version": "0.0.1",
+  "description": "Developer by Meska",
+  "main": "meska.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArdaEnginEbcim/deneme.git"
+  },
+  "author": "Arda Engin Ebcim aka Meska",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArdaEnginEbcim/deneme/issues"
+  },
+  "homepage": "https://github.com/ArdaEnginEbcim/deneme#readme"
+}
