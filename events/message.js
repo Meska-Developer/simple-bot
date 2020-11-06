@@ -54,6 +54,7 @@ module.exports = message => {
     if(cmd.conf.permLevel === 4) {
       if(!message.member.hasPermission("BAN_MEMBERS")) {
         message.channel.send("")
+	return
       }
     }
     if(cmd.conf.permLevel === 5) {
